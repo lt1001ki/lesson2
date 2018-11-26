@@ -2,10 +2,14 @@ todos
 
  buy
   cake
+    chocolate cake
   cat
+    black cat
   chocolate
+    black chocolate
   
  work
-  copy handout
-  waste garbege
+  copy handout of the lecture
+  waste garbege that is burnable
   
+ 
