@@ -4,3 +4,8 @@ todos
   cake
   cat
   chocolate
+  
+ work
+  copy handout
+  waste garbege
+  
